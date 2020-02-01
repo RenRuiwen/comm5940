@@ -1,1 +1,1 @@
-# comm5940
+This is an assignment folder for course # comm5940
